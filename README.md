@@ -22,5 +22,7 @@ In this project I have created a student management API that Performs CRUD opera
 
 ##  Information About the API Requests
 
+![This is an image](https://github.com/SAYAN-2000/Student-Management-System/blob/main/001.png)
+
 
 
